@@ -1,0 +1,25 @@
+{
+    "name": "dan-react-theme",
+    "displayName": "dan-react-theme",
+    "description": "Color friendly",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/xxx/xxx"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "dan-react-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dan-react-theme-color-theme.json"
+            }
+        ]
+    }
+}
