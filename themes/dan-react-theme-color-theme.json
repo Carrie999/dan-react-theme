@@ -361,7 +361,7 @@
       "name": "Function name",
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#ffcb6b"
       }
     },
     {
@@ -1072,7 +1072,7 @@
         "meta.export.js variable.other"
       ],
       "settings": {
-        "foreground": "#bf96e4"
+        "foreground": "#f7cc94"
       }
     },
     {

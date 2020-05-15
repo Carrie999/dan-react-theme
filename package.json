@@ -1,8 +1,8 @@
 {
     "name": "dan-react-theme",
-    "displayName": "dan-react-theme",
+    "displayName": "Dan React Theme",
     "description": "Color friendly",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.45.0"
     },
